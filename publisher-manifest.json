@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "05a3b2a3a14ba1eda43fa8b3",
+  "owner": "wangbadani1",
+  "repo": "page-69b7244e03cb6116d815757e",
+  "title": "Blinkload",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "69b7244e03cb6116d815757e",
+      "a": "Blinkload",
+      "b": "最新6折优惠码",
+      "entity": "Blinkload",
+      "brand": "Blinkload",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "f5698f1fd085cc5a2ca006f69e48f9f22ee4d701891819fce9e0d90376ac40e7",
+      "content": {
+        "primary_entity": "Blinkload",
+        "keyword1": "Blinkload",
+        "keyword2": "最新6折优惠码",
+        "content": {
+          "AI_DESCRIPTION": "，Blinkload 提供基础版、旗舰版和团队版三档方案，月付最低 ¥15，年付最低 ¥150。基础版含 100GB 月流量与 3 台设备；旗舰版含 300GB 与 5 台设备，并支持 IPLC 专线游戏加速；团队版含 1000GB 与 20 台设备，适合多终端协作。选择时先看设备数量和月流量需求，再决定是否按年付费以降低单月成本。",
+          "AI_HERO_SUBTITLE": "多设备加速，按需选套餐",
+          "AI_HERO_INTRO": "Blinkload 面向需要稳定连接的访客，提供三档订阅与多种客户端配置方式。从月付 100GB 到年付 1000GB，可按设备数量和流量需求匹配。",
+          "AI_VISUAL_TITLE": "选择适合的加速套餐",
+          "AI_HIGHLIGHT_1": "三档套餐，按设备与流量选择",
+          "AI_HIGHLIGHT_2": "旗舰版支持 IPLC 游戏专线",
+          "AI_HIGHLIGHT_3": "年付方案降低单月成本",
+          "AI_FEATURES_INTRO": "结合套餐差异与订阅周期，找到适合的连接方案。",
+          "AI_FEATURES_TITLE": "套餐与设备要点",
+          "AI_FEATURE_TITLE_1": "先看设备数量",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台，旗舰版 5 台，团队版 20 台同时在线。",
+          "AI_FEATURE_TITLE_2": "再看月流量",
+          "AI_FEATURE_TEXT_2": "100GB、300GB 与 1000GB 三档，按日常使用量匹配。",
+          "AI_FEATURE_TITLE_3": "年付更划算",
+          "AI_FEATURE_TEXT_3": "基础版年付 ¥150，旗舰版 ¥350，团队版 ¥850。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "不同系统可选择对应客户端，导入订阅后即可使用。",
+          "AI_PLANS_TITLE": "对比三档订阅",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版平衡流量与专线，团队版面向多设备与高流量。",
+          "AI_GUIDE_TITLE": "配置步骤",
+          "AI_GUIDE_INTRO": "先选套餐，再确认设备数量，最后导入订阅。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "按设备数量和月流量需求，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认客户端系统版本与同时在线设备数是否满足所选套餐上限。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "在所选客户端中导入订阅信息，按客户端文档完成连接设置。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "Blinkload 套餐可以中途更换吗？",
+          "AI_FAQ_ANSWER_1": "支持在订阅周期内按规则升级，补差价后即可切换至更高档套餐，具体以购买页说明为准。",
+          "AI_FAQ_QUESTION_2": "一台设备可以登录多个客户端吗？",
+          "AI_FAQ_ANSWER_2": "同一账号在套餐允许的设备数量内可登录多个客户端，超出限制时可能影响连接。",
+          "AI_FAQ_QUESTION_3": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "年付方案价格更低，基础版 ¥150、旗舰版 ¥350、团队版 ¥850，对应月付分别为 ¥15、¥35、¥85。",
+          "AI_FAQ_QUESTION_4": "流量用完后会怎样？",
+          "AI_FAQ_ANSWER_4": "当月流量达上限后连接速度可能受限，可等待下月重置或升级至更高流量套餐。",
+          "AI_FAQ_QUESTION_5": "团队版适合哪些使用场景？",
+          "AI_FAQ_ANSWER_5": "团队版支持 20 台设备与 1000GB 月流量，适合小型团队、多终端协作或高流量日常使用。",
+          "AI_CLOSING_TITLE": "开始选择套餐",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选定套餐，按客户端文档完成订阅配置。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "f09e22c9cc8b257d8d074483c7204f8533df19e0ec9b0d1fa15b1437642ecbc0",
+    "sitemap.xml": "f8b49e1efc84b2806a90b9d9f613b8bacc4d187465326c3c185e2f7396f17ff0",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "e3b22a54bda7e3d017c02bdef9fae6149371897027cc0bae21a26e6be41c6f63"
+}
